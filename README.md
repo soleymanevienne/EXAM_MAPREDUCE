@@ -1,1 +1,1 @@
-# EXAM_MAPREDUCE
+# ExammCC
